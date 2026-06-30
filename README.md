@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Praveen%20Kumar&fontAlign=50&fontAlignY=38&fontSize=55&animation=fadeIn&fontColor=ffffff"/>
 
-# <img src="https://media.giphy.com/media /hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi,I'm Praveen Kumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi,I'm Praveen Kumar
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;AI+%26+Data+Science+Student;Building+Scalable+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Things+🚀"/>
 
