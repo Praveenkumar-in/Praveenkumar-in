@@ -311,15 +311,6 @@ Complaint portal with secure authentication and admin approval.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Praveenkumar-in&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -450,17 +441,9 @@ If you like my work, consider giving a ⭐ to my repositories.
 </div>
 
 ---
----
 
-# 🎖 Holopin Badges
 
-<div align="center">
 
-[![Holopin](https://holopin.me/YOUR_HOLOPIN_USERNAME)](https://holopin.io/@YOUR_HOLOPIN_USERNAME)
-
-</div>
-
----
 
 # 📊 GitHub Metrics
 
