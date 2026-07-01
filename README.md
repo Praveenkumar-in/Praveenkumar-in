@@ -491,15 +491,7 @@ If you like my work, consider giving a ⭐ to my repositories.
 
 ---
 
-# 🎵 Spotify
 
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app)
-
-</div>
-
----
 
 # 📬 Let's Connect
 
