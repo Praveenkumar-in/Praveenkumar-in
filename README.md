@@ -246,50 +246,28 @@ hobbies: [
 
 <table>
 <tr>
-<td width="50%">
 
-## 🤖 HireX — AI Powered Job Portal
+<td width="50%" valign="top">
 
-AI-powered recruitment platform connecting recruiters and job seekers with AI resume analysis and career assistance.
+### 🤖 HireX — AI Powered Job Portal
 
-### ⚙️ Tech Stack
+AI-powered recruitment platform with AI resume analysis and career assistance.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama_AI-000000?style=flat-square)
+**⚙️ Tech Stack**
 
-🔗 **Live Demo:** YOUR_LINK
-
-💻 **GitHub:** YOUR_REPO
+React • Node.js • Express • MongoDB • Clerk • Ollama AI
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🛒 MERN E-Commerce
+### 🛒 MERN E-Commerce
 
-Complete e-commerce platform with authentication, payment gateway and admin dashboard.
+Complete e-commerce platform with authentication, payments and admin dashboard.
 
-### ⚙️ Tech Stack
+**⚙️ Tech Stack**
 
-React
-
-Node.js
-
-Express
-
-MongoDB
-
-JWT
-
-Stripe / Razorpay
-
-🔗 Live Demo
-
-💻 GitHub
+React • Node.js • Express • MongoDB • JWT • Stripe
 
 </td>
 
@@ -297,39 +275,33 @@ Stripe / Razorpay
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-## 🎫 Smart Queue Management
+### 🎫 Smart Queue Management
 
-Digital token system with real-time updates using Socket.io.
+Digital token management system with real-time queue updates.
 
-### Features
+**✨ Features**
 
-✔ Live Queue
-
-✔ Digital Token
-
-✔ SMS Notification
-
-✔ Admin Dashboard
+- Live Queue
+- Socket.IO
+- SMS Alerts
+- Admin Dashboard
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-## 📋 Complaint Management
+### 📋 Complaint Management
 
-College complaint portal with secure JWT authentication and admin approval.
+Complaint portal with secure authentication and admin approval.
 
-### Features
+**✨ Features**
 
-✔ Authentication
-
-✔ Complaint Tracking
-
-✔ Role Based Access
-
-✔ Dashboard
+- JWT Authentication
+- Complaint Tracking
+- Role-Based Access
+- Admin Dashboard
 
 </td>
 
